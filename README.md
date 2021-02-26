@@ -1,2 +1,2 @@
 # Git1
-Git1 Test
+GitHub Test
